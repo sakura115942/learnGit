@@ -4,5 +4,5 @@ second message
 
 third message
 
-main branch write
+conflict branch write
 
