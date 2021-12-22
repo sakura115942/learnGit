@@ -4,3 +4,5 @@ second message
 
 third message
 
+conflict branch write
+
